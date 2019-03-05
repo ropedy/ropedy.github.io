@@ -1,0 +1,1 @@
+body{margin:0;background-color:#fff}body #test-area{margin:50px auto 0;width:800px;height:800px;cursor:default}body #test-area .row .character{display:inline-block;text-align:center;vertical-align:top}body #test-area .row .character:hover{filter:invert(100%)}
